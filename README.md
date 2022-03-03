@@ -31,7 +31,9 @@
 
 <a href="https://github.com/vijaynallagatla/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vijaynallagatla&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Vijay's github stats" /></a>
 
+<a href="https://www.buymeacoffee.com/vijaynallagatla" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 <br/>
+
 <h2>My Latest Blog Post in Medium</h2>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vijai.nallagatla/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vijai.nallagatla/0" alt="Recent Article 0"></a>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vijai.nallagatla/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vijai.nallagatla/1" alt="Recent Article 1"></a>
