@@ -28,8 +28,8 @@
 </p>
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=vijaynallagatla&show_icons=true&theme=gotham" alt="vijaynallagatla" />
-
-![github stats](https://github-profile-trophy.vercel.app/?username=vijaynallagatla&no-frame=true&theme=oldie)
+<!-- 
+![github stats](https://github-profile-trophy.vercel.app/?username=vijaynallagatla&no-frame=true&theme=oldie) -->
 
 <a href="https://www.buymeacoffee.com/vijaynallagatla" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 <br/>
