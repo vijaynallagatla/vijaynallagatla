@@ -1,4 +1,4 @@
-**About me**
+<h1>About me</h1>
 
 - 💼 Senior Software Engineer at [ICEYE](https://iceye.com/)
 
@@ -6,7 +6,7 @@
 
 - 💬 Ask me about anything [here](https://github.com/vijaynallagatla/vijaynallagatla/issues)
 
-<h3>Things I code with</h3>
+<h2>Things I code with</h2>
 <p>
   <img alt="Go" src="https://img.shields.io/badge/-Golang-45b8d8?style=flat-square&logo=go&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
@@ -27,17 +27,20 @@
 
 </p>
 
-![github stats](https://github-profile-trophy.vercel.app/?username=vijaynallagatla&theme=dark_lover)
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=vijaynallagatla&show_icons=true&theme=gotham" alt="vijaynallagatla" />
 
-<a href="https://github.com/vijaynallagatla/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vijaynallagatla&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Vijay's github stats" /></a>
+![github stats](https://github-profile-trophy.vercel.app/?username=vijaynallagatla&no-frame=true&theme=oldie)
+
+<a href="https://www.buymeacoffee.com/vijaynallagatla" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<br/>
+
+<h2>My Latest Blog Post in Medium</h2>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vijai.nallagatla/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vijai.nallagatla/0" width="400" alt="Recent Article 0"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vijai.nallagatla/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vijai.nallagatla/1" width="400" alt="Recent Article 1"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vijai.nallagatla/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vijai.nallagatla/2" width="400" alt="Recent Article 2"></a> <br>
 
 <br/>
-<h2>My Latest Blog Post in Medium</h2>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vijai.nallagatla/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vijai.nallagatla/0" alt="Recent Article 0"></a>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vijai.nallagatla/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vijai.nallagatla/1" alt="Recent Article 1"></a>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vijai.nallagatla/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vijai.nallagatla/2" alt="Recent Article 2"></a> <br>
-
-#### Top Repositories
+<h2>Top Repositories</h2>
 
 <a href="https://github.com/vijaynallagatla/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vijaynallagatla&repo=nginx_production_config&theme=buefy" />
