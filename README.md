@@ -13,6 +13,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 - 💬 Ask me about anything [here](https://github.com/vijaynallagatla/vijaynallagatla/issues)
 
 
+https://github-profile-trophy.vercel.app/?username=vijaynallagatla&theme=dark_lover
 
 **Languages and Tools:**  
 
