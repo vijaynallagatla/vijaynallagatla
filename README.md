@@ -15,9 +15,10 @@ I'm a self-taught passionate Software developer from India 🇮🇳
 
 **Languages and Tools:**  
 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
@@ -27,8 +28,7 @@ I'm a self-taught passionate Software developer from India 🇮🇳
 - <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vijai.nallagatla/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vijai.nallagatla/2" alt="Recent Article 2"></a> <br>
 
 
-| <a href="https://github.com/vijaynallagatla/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vijaynallagatla&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Vijay's github stats" /></a>
-| ------------- | ------------- |
+<a href="https://github.com/vijaynallagatla/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vijaynallagatla&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Vijay's github stats" /></a>
 
 #### Top Repositories
 <a href="https://github.com/vijaynallagatla/github-readme-stats">
