@@ -39,17 +39,18 @@ I'm a self-taught passionate Software developer from India 🇮🇳
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-![github stats](https://github-profile-trophy.vercel.app/?username=vijaynallagatla&theme=dark_lover)
+<!-- ![github stats](https://github-profile-trophy.vercel.app/?username=vijaynallagatla&theme=dark_lover) -->
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
+<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
-
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>     -->
+<br/>
+<br/>
 ### 📝 My Latest Blog Post in Medium
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vijai.nallagatla/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vijai.nallagatla/0" alt="Recent Article 0"></a>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vijai.nallagatla/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vijai.nallagatla/1" alt="Recent Article 1"></a>
