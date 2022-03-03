@@ -23,22 +23,15 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 
-| <a href="https://github.com/vijaynallagatla/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Vijay's github stats" /></a> | <a href="https://github.com/vijaynallagatla/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijaynallagatla&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/vijaynallagatla/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vijaynallagatla&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Vijay's github stats" /></a> | <a href="https://github.com/vijaynallagatla/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijaynallagatla&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 #### Top Repositories
 
 
 <a href="https://github.com/vijaynallagatla/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vijaynallagatla&repo=nginx_production_config&theme=buefy" />
 </a>
-<a href="https://github.com/vijaynallagatla/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
-</a>
-
-<br />
-<br />
-
-<a href="https://twitter.com/vijaynallagatla">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+<a href="https://github.com/vijaynallagatla/vijaynallagatla.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vijaynallagatla&repo=vijaynallagatla.github.io&theme=buefy" />
 </a>
