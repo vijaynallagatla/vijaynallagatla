@@ -23,9 +23,9 @@ I'm a self-taught passionate Software developer from India 🇮🇳
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 ### 📝 My Latest Blog Post in Medium
-- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vijai.nallagatla/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vijai.nallagatla/0" alt="Recent Article 0"></a>
-- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vijai.nallagatla/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vijai.nallagatla/1" alt="Recent Article 1"></a>
-- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vijai.nallagatla/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vijai.nallagatla/2" alt="Recent Article 2"></a> <br>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vijai.nallagatla/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vijai.nallagatla/0" alt="Recent Article 0"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vijai.nallagatla/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vijai.nallagatla/1" alt="Recent Article 1"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vijai.nallagatla/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vijai.nallagatla/2" alt="Recent Article 2"></a> <br>
 
 
 <a href="https://github.com/vijaynallagatla/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vijaynallagatla&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Vijay's github stats" /></a>
