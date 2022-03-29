@@ -5,6 +5,7 @@
 - ❤️ I love developing sofwares, and building fun experiments on type-level
 
 - 💬 Ask me about anything [here](https://github.com/vijaynallagatla/vijaynallagatla/issues)
+- <a href="https://www.buymeacoffee.com/vijaynallagatla" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 <h2>Things I code with</h2>
 <p>
@@ -31,7 +32,6 @@
 <!-- 
 ![github stats](https://github-profile-trophy.vercel.app/?username=vijaynallagatla&no-frame=true&theme=oldie) -->
 
-<a href="https://www.buymeacoffee.com/vijaynallagatla" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 <br/>
 
 <h2>My Latest Blog Post in Medium</h2>
