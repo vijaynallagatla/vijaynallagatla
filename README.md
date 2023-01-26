@@ -29,7 +29,7 @@
 
 </p>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=vijaynallagatla&show_icons=true&theme=gotham" alt="vijaynallagatla" />
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=vijaynallagatla&show_icons=true" alt="vijaynallagatla" /></div>
 <!-- 
 ![github stats](https://github-profile-trophy.vercel.app/?username=vijaynallagatla&no-frame=true&theme=oldie) -->
 
