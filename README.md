@@ -26,18 +26,16 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-F7B93E?style=flat-square&logo=terraform&logoColor=white" />
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-13aa52?style=flat-square&logo=sql&logoColor=white" />
-
-</p>
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/vijaynallagatla/count.svg" />
 </p>
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=vijaynallagatla&show_icons=true" alt="vijaynallagatla" /></div>
 <!-- 
 ![github stats](https://github-profile-trophy.vercel.app/?username=vijaynallagatla&no-frame=true&theme=oldie) -->
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/vijaynallagatla/count.svg" />
+</p>
 <br/>
 
 <h2>My Latest Blog Post in Medium</h2>
