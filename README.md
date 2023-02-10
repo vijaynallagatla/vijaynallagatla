@@ -36,8 +36,9 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/vijaynallagatla/count.svg" />
 </p>
-![snake gif](https://github.com/vijaynallagatla/vijaynallagatla/blob/output/github-contribution-grid-snake.gif)
-<br/>
+
+![snake gif]
+(https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 
 <h2>My Latest Blog Post in Medium</h2>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vijai.nallagatla/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vijai.nallagatla/0" width="400" alt="Recent Article 0"></a>
