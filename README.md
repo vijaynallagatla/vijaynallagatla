@@ -36,7 +36,7 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/vijaynallagatla/count.svg" />
 </p>
-## Contributions
+<div align="center"><h1>Contributions</h1></div>
 
 ![snake gif](https://github.com/vijaynallagatla/vijaynallagatla/blob/output/github-contribution-grid-snake.gif)
 
