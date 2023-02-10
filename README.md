@@ -36,6 +36,7 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/vijaynallagatla/count.svg" />
 </p>
+![snake gif](https://github.com/vijaynallagatla/vijaynallagatla/blob/output/github-contribution-grid-snake.gif)
 <br/>
 
 <h2>My Latest Blog Post in Medium</h2>
