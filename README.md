@@ -5,6 +5,11 @@
 - ❤️ I love developing sofwares, and building fun experiments on type-level
 
 - 💬 Ask me about anything [here](https://github.com/vijaynallagatla/vijaynallagatla/issues)
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/vijaynallagatla/count.svg" />
+</p>
+
 <br/>
  <a href="https://www.buymeacoffee.com/vijaynallagatla" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
@@ -31,11 +36,6 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=vijaynallagatla&show_icons=true" alt="vijaynallagatla" /></div>
 <!-- 
 ![github stats](https://github-profile-trophy.vercel.app/?username=vijaynallagatla&no-frame=true&theme=oldie) -->
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/vijaynallagatla/count.svg" />
-</p>
 <div align="center"><h1>Contributions</h1></div>
 
 ![snake gif](https://github.com/vijaynallagatla/vijaynallagatla/blob/output/github-contribution-grid-snake.gif)
