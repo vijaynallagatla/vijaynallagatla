@@ -42,6 +42,7 @@
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vijai.nallagatla/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vijai.nallagatla/0" width="400" alt="Recent Article 0"></a>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vijai.nallagatla/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vijai.nallagatla/1" width="400" alt="Recent Article 1"></a>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vijai.nallagatla/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vijai.nallagatla/2" width="400" alt="Recent Article 2"></a> <br>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vijai.nallagatla/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vijai.nallagatla/3" width="400" alt="Recent Article 3"></a> <br>
 
 <br/>
 <h2>Top Repositories</h2>
