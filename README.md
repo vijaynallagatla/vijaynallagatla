@@ -29,6 +29,11 @@
 
 </p>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+</p>
+
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=vijaynallagatla&show_icons=true" alt="vijaynallagatla" /></div>
 <!-- 
 ![github stats](https://github-profile-trophy.vercel.app/?username=vijaynallagatla&no-frame=true&theme=oldie) -->
