@@ -1,6 +1,6 @@
 <div align="center"><h1>Hello, I am Vijay 👋</h1></div>
 
-- 💼 Senior Software Engineer at [Sharper Shape](https://sharpershape.com/)
+- 💼 Senior Software Engineer at [ICEYE](https://iceye.com/)
 
 - ❤️ I love developing sofwares, and building fun experiments on type-level
 
